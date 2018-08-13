@@ -1,6 +1,11 @@
 License
 =======
 
+Software files Main.py, simulate_network.py and animate_network.py 
+written by Berea College students:
+E. Dove DeNigris, Miranda E. Goens, Jenna D. Hughes, and Abdirahman O. Mohamed
+Under the research guidance  of Dr. Janice L. Pearce.Berea College
+
 This software uses NetworkX (https://github.com/networkx/networkx)
 This software carries the same liscense as NetworkX.
 
